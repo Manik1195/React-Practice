@@ -14,7 +14,8 @@ function Count(){
         outline:'none',
         backgroundColor:"#000",
         color:'#fff',
-        marginRight:'10px'
+        marginRight:'10px',
+        fontFamily:'sans-serif',
 
     }
     return(
