@@ -6,14 +6,9 @@ import Welcome from './Components/Welcome'
 import Count from './Components/Count'
 
 function App() {
-   const greet={
-    msg:"Welcome to React",
-    name:'Manik'
-   }
-
+ 
   return (
     <>
-     
      <Count/>
     </>
   )
